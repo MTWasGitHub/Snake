@@ -2,7 +2,8 @@
 A **Snake game**, that is playable in the **browser**
 # How to play
 1. Download the repository
-2. Open **main.html** and the game should open in the browser
+2. Unzip the file and put the folder to a location of your choise
+3. Open **main.html** and the game should open in the browser
 # Controls
 **Arrow keys** for moving, **space bar** for pausing or resume the game.
 # Additional infos
